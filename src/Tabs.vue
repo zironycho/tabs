@@ -111,7 +111,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~bulma/sass/utilities/variables';
+@import '../../../src/assets/sass/main';
 
 .vue-bulma-tabs {
   position: relative;
